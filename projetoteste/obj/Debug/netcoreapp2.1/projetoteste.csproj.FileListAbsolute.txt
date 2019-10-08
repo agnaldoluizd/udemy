@@ -1,0 +1,11 @@
+D:\Github\Udemy\Charp\NelioAlves\testegit\projetoteste\projetoteste\obj\Debug\netcoreapp2.1\projetoteste.csprojAssemblyReference.cache
+D:\Github\Udemy\Charp\NelioAlves\testegit\projetoteste\projetoteste\obj\Debug\netcoreapp2.1\projetoteste.csproj.CoreCompileInputs.cache
+D:\Github\Udemy\Charp\NelioAlves\testegit\projetoteste\projetoteste\obj\Debug\netcoreapp2.1\projetoteste.AssemblyInfoInputs.cache
+D:\Github\Udemy\Charp\NelioAlves\testegit\projetoteste\projetoteste\obj\Debug\netcoreapp2.1\projetoteste.AssemblyInfo.cs
+D:\Github\Udemy\Charp\NelioAlves\testegit\projetoteste\projetoteste\bin\Debug\netcoreapp2.1\projetoteste.deps.json
+D:\Github\Udemy\Charp\NelioAlves\testegit\projetoteste\projetoteste\bin\Debug\netcoreapp2.1\projetoteste.runtimeconfig.json
+D:\Github\Udemy\Charp\NelioAlves\testegit\projetoteste\projetoteste\bin\Debug\netcoreapp2.1\projetoteste.runtimeconfig.dev.json
+D:\Github\Udemy\Charp\NelioAlves\testegit\projetoteste\projetoteste\bin\Debug\netcoreapp2.1\projetoteste.dll
+D:\Github\Udemy\Charp\NelioAlves\testegit\projetoteste\projetoteste\bin\Debug\netcoreapp2.1\projetoteste.pdb
+D:\Github\Udemy\Charp\NelioAlves\testegit\projetoteste\projetoteste\obj\Debug\netcoreapp2.1\projetoteste.dll
+D:\Github\Udemy\Charp\NelioAlves\testegit\projetoteste\projetoteste\obj\Debug\netcoreapp2.1\projetoteste.pdb
